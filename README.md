@@ -72,7 +72,7 @@ G035.pdf
 
 ## Input data format
 
-The example input spectrum `G03519-0074_CH3CCH.dat` should be a two-column ASCII file:
+The example input spectrum `G03519-0074_CH3CCH.dat` is a two-column ASCII file:
 
 ```text
 velocity intensity
